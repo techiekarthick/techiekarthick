@@ -21,7 +21,7 @@ TaskPilot is a lightweight, efficient task management app designed to help users
 - Local storage persistence (no backend needed)
 
 **🖼️ Preview:**
-![TaskPilot Screenshot](https://user-images.githubusercontent.com/your-screenshot-path/taskpilot-preview.png)
+![TaskPilot Screenshot](https://github.com/techiekarthick/techiekarthick/blob/main/Screenshot%20From%202025-05-27%2018-57-42.png?raw=true)
 
 ---
 
@@ -40,7 +40,7 @@ ExpenseTracker is a simple and effective way to monitor your personal spending. 
 - Clean and modern interface
 
 **🖼️ Preview:**
-![ExpenseTracker Screenshot](https://user-images.githubusercontent.com/your-screenshot-path/expensetracker-preview.png)
+![ExpenseTracker Screenshot](https://github.com/techiekarthick/techiekarthick/blob/main/Screenshot%20From%202025-05-27%2018-58-26.png?raw=true)
 
 ---
 
