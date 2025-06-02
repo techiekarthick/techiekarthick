@@ -51,6 +51,6 @@ I'm Karthick Ramesh, a passionate frontend developer focused on building clean, 
 **📫 Contact Me:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/techiekarthick/)
 - ✉️ Email: techiekarthick@gmail.com
-- 🧑‍💻 Portfolio: *coming soon*
+- 🧑‍💻 [*Portfolio*](https://karthick-chronicle.vercel.app/)
 
 ---
