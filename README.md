@@ -7,7 +7,7 @@ Welcome to my project showcase! Here you'll find a collection of my frontend app
 ## 🚀 Projects
 
 ### ✅ TaskPilot — Task Manager  
-📍 [Live Demo](https://taskpilot-red.vercel.app/)  
+📍 [Live Demo](https://taskpilot-8fxc.vercel.app/)  
 🛠 Tech Stack: React · TailwindCSS · LocalStorage  
 
 **Overview:**  
